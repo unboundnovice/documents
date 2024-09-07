@@ -11,8 +11,6 @@ Every new version represents our efforts. All our efforts are aimed at making yo
 
 
 When using our product, you may encounter some technical difficulties. Please clearly describe the problem you have encountered in this section, including its specific manifestations, frequency of occurrence, and related environmental factors. 
-
-
 Provide sufficient details to help us better understand the problem.
 
 
