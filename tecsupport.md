@@ -1,5 +1,6 @@
 Technical Support
 
+
 Welcome to our technical support page. If you encounter any problems or have any suggestions while using our application, please feel free to contact us at any time.
 
 We will wholeheartedly provide you with assistance and support. In order to better meet your needs, we provide the following technical support templates aimed at helping you better understand and solve technical problems. 
