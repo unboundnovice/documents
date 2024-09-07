@@ -1,5 +1,6 @@
 Privacy Policy
 
+
 Please carefully read the Privacy Policy (especially the bold content) and make sure to understand our rules for handling your personal information. If you have any questions during the reading process, you can consult us through the contact information in the Privacy Policy.
 
 Introduction
